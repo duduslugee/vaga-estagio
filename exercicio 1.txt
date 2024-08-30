@@ -1,0 +1,15 @@
+1)
+índice = 13;
+soma = 0
+k = 0
+
+while(k<índice){
+	k = k + 1;
+	soma = soma + k;
+}
+
+//ao final do loop ele vai ter somado tudo, resultando em 91
+
+1+2+3+4+5+6+7+8+9+10+11+12+13 = 91
+
+
